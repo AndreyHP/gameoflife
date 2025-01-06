@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/usr/bin/fpc" Date="1625802185"/>
+  <Params Value=" -MObjFPC -Scghi -Cg -O1 -gw3 -gl -l -vewnhibq -Fi/home/andrey/Documentos/projetos/Pascal/gameoflife/lib/x86_64-linux -Fl/home/andrey/Documentos/projetos/Pascal/raylib/lib/raylib-5.5_linux_amd64 -Fu/home/andrey/Documentos/projetos/Pascal/raylib -Fu/home/andrey/Documentos/projetos/Pascal/gameoflife/ -FU/home/andrey/Documentos/projetos/Pascal/gameoflife/lib/x86_64-linux/ -FE/home/andrey/Documentos/projetos/Pascal/gameoflife/ -o/home/andrey/Documentos/projetos/Pascal/gameoflife/life life.lpr"/>
+</CONFIG>

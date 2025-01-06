@@ -1,0 +1,8 @@
+{
+    "screen_width":       1280,
+    "screen_height":      720,
+    "gamescreen_width":   1920,
+    "gamescreen_height":  1080,
+
+    "fullscreen":         false
+}
