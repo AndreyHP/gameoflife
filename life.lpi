@@ -23,8 +23,8 @@
           </Target>
           <SearchPaths>
             <IncludeFiles Value="$(ProjOutDir)"/>
-            <Libraries Value="../raylib/lib/raylib-5.5_linux_amd64"/>
-            <OtherUnitFiles Value="../raylib"/>
+            <Libraries Value="raylib/lib/raylib-5.5_win64_mingw-w64"/>
+            <OtherUnitFiles Value="raylib"/>
             <UnitOutputDirectory Value="lib/$(TargetCPU)-$(TargetOS)"/>
           </SearchPaths>
           <CodeGeneration>
@@ -75,8 +75,8 @@
     </Target>
     <SearchPaths>
       <IncludeFiles Value="$(ProjOutDir)"/>
-      <Libraries Value="../raylib/lib/raylib-5.5_linux_amd64"/>
-      <OtherUnitFiles Value="../raylib"/>
+      <Libraries Value="raylib/lib/raylib-5.5_linux_amd64"/>
+      <OtherUnitFiles Value="raylib"/>
       <UnitOutputDirectory Value="lib/$(TargetCPU)-$(TargetOS)"/>
     </SearchPaths>
     <Linking>
